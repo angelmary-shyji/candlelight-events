@@ -53,9 +53,9 @@ export default function Contact() {
               <span className="c-icon">☎</span>
               <span className="c-text">+1 (613) 970-7025</span>
             </a>
-            <a className="contact-item" href="mailto:candlelightevents14@gmail.com">
+            <a className="contact-item" href="mailto:candlelightevents40@gmail.com">
               <span className="c-icon">✉</span>
-              <span className="c-text">candlelightevents14@gmail.com</span>
+              <span className="c-text">candlelightevents40@gmail.com</span>
             </a>
             <div className="contact-item">
               <span className="c-icon">◎</span>
